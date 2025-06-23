@@ -1,0 +1,8 @@
+server:
+  port: 8787
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/mobile_banking_dev
+    username: postgres
+    password: Thearak97
